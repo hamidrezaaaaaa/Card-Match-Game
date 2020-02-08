@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Card-Match-Game/static/js/main.0ca4e507.chunk.js",
+    "main.js.map": "/Card-Match-Game/static/js/main.0ca4e507.chunk.js.map",
+    "runtime-main.js": "/Card-Match-Game/static/js/runtime-main.4c5b5c84.js",
+    "runtime-main.js.map": "/Card-Match-Game/static/js/runtime-main.4c5b5c84.js.map",
+    "static/js/2.d7abcce0.chunk.js": "/Card-Match-Game/static/js/2.d7abcce0.chunk.js",
+    "static/js/2.d7abcce0.chunk.js.map": "/Card-Match-Game/static/js/2.d7abcce0.chunk.js.map",
+    "index.html": "/Card-Match-Game/index.html",
+    "precache-manifest.fccefa5bf81bfb71659010aadf589a93.js": "/Card-Match-Game/precache-manifest.fccefa5bf81bfb71659010aadf589a93.js",
+    "service-worker.js": "/Card-Match-Game/service-worker.js",
+    "static/js/2.d7abcce0.chunk.js.LICENSE.txt": "/Card-Match-Game/static/js/2.d7abcce0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c5b5c84.js",
+    "static/js/2.d7abcce0.chunk.js",
+    "static/js/main.0ca4e507.chunk.js"
+  ]
+}
